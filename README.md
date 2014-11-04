@@ -1,5 +1,5 @@
 Gram Stain Scenario digital assets
 ==================================
 
-Here we save all fo the digital assets, 3D modelling, texture and scripts related to the [Gran Stain Scenario](tolink).
+Here we save all fo the digital assets, 3D modelling, texture and scripts related to the [Gran Stain Scenario](wiki).
 
